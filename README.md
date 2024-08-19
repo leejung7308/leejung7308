@@ -1,4 +1,4 @@
-## Hi there 👋
+## 게임 클라이언트 개발자를 꿈꾸는 이정입니다
 
 <!--
 **leejung7308/leejung7308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
