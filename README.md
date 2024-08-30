@@ -16,7 +16,7 @@
 ### 신담찻집
 <a href="https://github.com/Project-GM"><img src="https://avatars.githubusercontent.com/u/162017922?s=200&v=4"></a>
 ### Sailing Island
-<a href="https://github.com/2024-Nexon-GameJam"><img src="https://avatars.githubusercontent.com/u/175385715?s=200&v=4"></a>
+<a href="https://github.com/CalmWaterStudio"><img src="https://avatars.githubusercontent.com/u/175385715?s=200&v=4"></a>
 ### Rogue Looter
 <a href="https://github.com/RogueLooter"><img src="https://avatars.githubusercontent.com/u/177748023?s=200&v=4"></a>
 <!--
