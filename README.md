@@ -18,7 +18,7 @@
 ### Sailing Island
 <a href="https://github.com/CalmWaterStudio"><img src="https://avatars.githubusercontent.com/u/175385715?s=200&v=4"></a>
 ### Rogue Looter
-<a href="https://github.com/RogueLooter"><img src="https://avatars.githubusercontent.com/u/177748023?s=200&v=4"></a>
+<a href="https://github.com/RogueLooter"><img src="https://avatars.githubusercontent.com/u/177748023?s=200&v=4"></a> 
 <!--
 **leejung7308/leejung7308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
