@@ -12,13 +12,6 @@
 ##### Tools
 - ![Static Badge](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white) ![Static Badge](https://img.shields.io/badge/vscode-0077FF?style=for-the-badge&logoColor=white) ![Static Badge](https://img.shields.io/badge/visualstudio-7239B3?style=for-the-badge&logoColor=white) 
 ---
-> 🏢Organizations
-### 신담찻집
-<a href="https://github.com/Project-GM"><img src="https://avatars.githubusercontent.com/u/162017922?s=200&v=4"></a>
-### Sailing Island
-<a href="https://github.com/CalmWaterStudio"><img src="https://avatars.githubusercontent.com/u/175385715?s=200&v=4"></a>
-### Rogue Looter
-<a href="https://github.com/RogueLooter"><img src="https://avatars.githubusercontent.com/u/177748023?s=200&v=4"></a> 
 <!--
 **leejung7308/leejung7308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
